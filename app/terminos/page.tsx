@@ -93,7 +93,7 @@ export default function TerminosPage() {
                 Para cualquier pregunta sobre estos términos y condiciones, puede contactarnos en:
               </p>
               <ul className="list-inside list-disc space-y-2 pl-4">
-                <li>Email: info@entradasdeportivas.online</li>
+                <li>Email: info@entradasdeportivas.com</li>
                 <li>Teléfono: +34 900 656 744</li>
               </ul>
             </section>

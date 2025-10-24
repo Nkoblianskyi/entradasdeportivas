@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Página Principal -->
   <url>
-    <loc>https://entradasdeportivas.online/</loc>
+    <loc>https://entradasdeportivas.com/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Eventos -->
   <url>
-    <loc>https://entradasdeportivas.online/eventos</loc>
+    <loc>https://entradasdeportivas.com/eventos</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
   <!-- Deportes -->
   <url>
-    <loc>https://entradasdeportivas.online/deportes</loc>
+    <loc>https://entradasdeportivas.com/deportes</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <!-- Deportes Individuales -->
   <url>
-    <loc>https://entradasdeportivas.online/deportes/futbol</loc>
+    <loc>https://entradasdeportivas.com/deportes/futbol</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/tenis</loc>
+    <loc>https://entradasdeportivas.com/deportes/tenis</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/baloncesto</loc>
+    <loc>https://entradasdeportivas.com/deportes/baloncesto</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/motociclismo</loc>
+    <loc>https://entradasdeportivas.com/deportes/motociclismo</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/hockey</loc>
+    <loc>https://entradasdeportivas.com/deportes/hockey</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/formula-1</loc>
+    <loc>https://entradasdeportivas.com/deportes/formula-1</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/rugby</loc>
+    <loc>https://entradasdeportivas.com/deportes/rugby</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/balonmano</loc>
+    <loc>https://entradasdeportivas.com/deportes/balonmano</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/deportes/ciclismo</loc>
+    <loc>https://entradasdeportivas.com/deportes/ciclismo</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Páginas Informativas -->
   <url>
-    <loc>https://entradasdeportivas.online/sobre-nosotros</loc>
+    <loc>https://entradasdeportivas.com/sobre-nosotros</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/contacto</loc>
+    <loc>https://entradasdeportivas.com/contacto</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Páginas Legales -->
   <url>
-    <loc>https://entradasdeportivas.online/terminos</loc>
+    <loc>https://entradasdeportivas.com/terminos</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/politica-privacidad</loc>
+    <loc>https://entradasdeportivas.com/politica-privacidad</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://entradasdeportivas.online/politica-cookies</loc>
+    <loc>https://entradasdeportivas.com/politica-cookies</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

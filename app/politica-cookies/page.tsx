@@ -128,7 +128,7 @@ export default function PoliticaCookiesPage() {
                 Si tiene preguntas sobre nuestra política de cookies, puede contactarnos en:
               </p>
               <ul className="list-inside list-disc space-y-2 pl-4">
-                <li>Email: info@entradasdeportivas.online</li>
+                <li>Email: info@entradasdeportivas.com</li>
                 <li>Teléfono: +34 900 656 744</li>
               </ul>
             </section>

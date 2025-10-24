@@ -49,7 +49,7 @@ export default function ContactoPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-card-foreground">Email</h3>
-                      <p className="text-sm text-muted-foreground">info@entradasdeportivas.online</p>
+                      <p className="text-sm text-muted-foreground">info@entradasdeportivas.com</p>
                     </div>
                   </div>
 

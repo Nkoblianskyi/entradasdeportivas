@@ -126,7 +126,7 @@ export default function PoliticaPrivacidadPage() {
                 Para ejercer sus derechos o si tiene preguntas sobre esta política de privacidad, puede contactarnos en:
               </p>
               <ul className="list-inside list-disc space-y-2 pl-4">
-                <li>Email: privacidad@entradasdeportivas.online</li>
+                <li>Email: privacidad@entradasdeportivas.com</li>
                 <li>Teléfono: +34 900 656 744</li>
                 <li>Dirección: Madrid, España</li>
               </ul>

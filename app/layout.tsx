@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://entradasdeportivas.online"),
+  metadataBase: new URL("https://entradasdeportivas.com"),
   alternates: {
     canonical: "/",
     languages: {
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "es_ES",
-    url: "https://entradasdeportivas.online",
+    url: "https://entradasdeportivas.com",
     title: "Entradas Deportivas | Acceso a Eventos Deportivos en España",
     description:
       "Facilitamos tu acceso a los mejores eventos deportivos en España. Fútbol, tenis, baloncesto, Fórmula 1, MotoGP y más.",

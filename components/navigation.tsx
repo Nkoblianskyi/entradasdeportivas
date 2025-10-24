@@ -59,11 +59,6 @@ export function Navigation() {
                 {link.label}
               </Link>
             ))}
-            <Button asChild size="sm" className="w-full">
-              <Link href="/contacto" onClick={() => setIsOpen(false)}>
-                Solicitar Entradas
-              </Link>
-            </Button>
           </div>
         </div>
       )}

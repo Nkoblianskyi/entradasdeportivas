@@ -15,7 +15,7 @@ export default function FutbolPage() {
     {
       id: 1,
       title: "Viaje a Partido de La Liga",
-      date: "Marzo - Mayo, 2025",
+      date: "2025",
       location: "Varios estadios en España",
       image: "/soccer-match-stadium-action.jpg",
       category: "La Liga",
@@ -23,7 +23,7 @@ export default function FutbolPage() {
     {
       id: 2,
       title: "Viaje a Partido de Champions League",
-      date: "Marzo - Mayo, 2025",
+      date: "2025",
       location: "Estadios en España",
       image: "/soccer-match-stadium-action.jpg",
       category: "Champions League",
@@ -31,7 +31,7 @@ export default function FutbolPage() {
     {
       id: 3,
       title: "Viaje a Partido de Copa del Rey",
-      date: "Febrero - Abril, 2025",
+      date: "2025",
       location: "Varios estadios",
       image: "/soccer-match-stadium-action.jpg",
       category: "Copa del Rey",
@@ -39,7 +39,7 @@ export default function FutbolPage() {
     {
       id: 4,
       title: "Viaje a Partido de Europa League",
-      date: "Marzo - Mayo, 2025",
+      date: "2025",
       location: "Estadios en España",
       image: "/soccer-match-stadium-action.jpg",
       category: "Europa League",

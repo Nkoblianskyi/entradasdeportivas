@@ -15,7 +15,7 @@ export default function Formula1Page() {
     {
       id: 1,
       title: "Viaje al Gran Premio de España",
-      date: "Mayo - Junio, 2025",
+      date: "2025",
       location: "Circuit de Barcelona-Catalunya",
       image: "/formula-1-car-on-track.png",
       category: "Gran Premio",
@@ -23,7 +23,7 @@ export default function Formula1Page() {
     {
       id: 2,
       title: "Viaje al Gran Premio de Mónaco",
-      date: "Mayo, 2025",
+      date: "2025",
       location: "Circuit de Monaco",
       image: "/formula-1-car-on-track.png",
       category: "Gran Premio",

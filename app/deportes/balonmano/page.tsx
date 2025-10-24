@@ -20,19 +20,19 @@ export default function BalonmanoPage() {
   const eventos = [
     {
       title: "Viaje a Partido de Liga Asobal",
-      date: "25 de Marzo, 2025",
+      date: "2025",
       location: "Palau Blaugrana, Barcelona",
       image: "/handball-match-action.png",
     },
     {
       title: "Viaje a Champions League de Balonmano",
-      date: "10 de Abril, 2025",
+      date: "2025",
       location: "WiZink Center, Madrid",
       image: "/handball-championship-game.jpg",
     },
     {
       title: "Viaje a Copa del Rey de Balonmano",
-      date: "5 de Mayo, 2025",
+      date: "2025",
       location: "Pabellón Príncipe Felipe, Zaragoza",
       image: "/handball-tournament.jpg",
     },

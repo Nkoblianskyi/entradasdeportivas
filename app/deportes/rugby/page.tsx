@@ -16,7 +16,7 @@ export default function RugbyPage() {
     {
       id: 1,
       title: "Viaje a Partido de División de Honor",
-      date: "Septiembre - Mayo, 2025",
+      date: "2025",
       location: "Campos en España",
       image: "/rugby-match-scrum-action.jpg",
       category: "División de Honor",
@@ -24,7 +24,7 @@ export default function RugbyPage() {
     {
       id: 2,
       title: "Viaje a Copa del Rey de Rugby",
-      date: "Marzo - Abril, 2025",
+      date: "2025",
       location: "Sede del torneo",
       image: "/rugby-match-scrum-action.jpg",
       category: "Copa del Rey",
@@ -32,7 +32,7 @@ export default function RugbyPage() {
     {
       id: 3,
       title: "Viaje a Six Nations",
-      date: "Febrero - Marzo, 2025",
+      date: "2025",
       location: "Estadios europeos",
       image: "/rugby-match-scrum-action.jpg",
       category: "Six Nations",
@@ -40,7 +40,7 @@ export default function RugbyPage() {
     {
       id: 4,
       title: "Viaje a Champions Cup",
-      date: "Diciembre - Mayo, 2025",
+      date: "2025",
       location: "Estadios europeos",
       image: "/rugby-match-scrum-action.jpg",
       category: "Champions Cup",

@@ -15,7 +15,7 @@ export default function HockeyPage() {
     {
       id: 1,
       title: "Viaje a Partido de Liga Nacional",
-      date: "Octubre - Marzo, 2025",
+      date: "2025",
       location: "Pabellones en España",
       image: "/ice-hockey-match-action.jpg",
       category: "Liga Nacional",
@@ -23,7 +23,7 @@ export default function HockeyPage() {
     {
       id: 2,
       title: "Viaje a Champions Hockey League",
-      date: "Septiembre - Febrero, 2025",
+      date: "2025",
       location: "Pabellones europeos",
       image: "/ice-hockey-championship-game.jpg",
       category: "Champions Hockey League",
@@ -31,7 +31,7 @@ export default function HockeyPage() {
     {
       id: 3,
       title: "Viaje a Copa del Rey de Hockey",
-      date: "Febrero, 2025",
+      date: "2025",
       location: "Sede del torneo",
       image: "/ice-hockey-tournament.jpg",
       category: "Copa del Rey",

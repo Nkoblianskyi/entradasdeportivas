@@ -15,7 +15,7 @@ export default function MotociclismoPage() {
     {
       id: 1,
       title: "Viaje a Gran Premio de MotoGP",
-      date: "Abril - Mayo, 2025",
+      date: "2025",
       location: "Circuitos en España",
       image: "/motorcycle-racing-motogp-action.jpg",
       category: "MotoGP",
@@ -23,7 +23,7 @@ export default function MotociclismoPage() {
     {
       id: 2,
       title: "Viaje a Carrera de Moto2",
-      date: "Temporada 2025",
+      date: "2025",
       location: "Varios circuitos",
       image: "/motorcycle-racing-motogp-action.jpg",
       category: "Moto2",
@@ -31,7 +31,7 @@ export default function MotociclismoPage() {
     {
       id: 3,
       title: "Viaje a Carrera de Moto3",
-      date: "Temporada 2025",
+      date: "2025",
       location: "Circuitos españoles",
       image: "/motorcycle-racing-motogp-action.jpg",
       category: "Moto3",
@@ -39,7 +39,7 @@ export default function MotociclismoPage() {
     {
       id: 4,
       title: "Viaje a Campeonato de Superbikes",
-      date: "Temporada 2025",
+      date: "2025",
       location: "Por confirmar",
       image: "/motorcycle-racing-motogp-action.jpg",
       category: "Superbikes",

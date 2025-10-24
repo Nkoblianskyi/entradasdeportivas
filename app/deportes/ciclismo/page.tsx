@@ -20,19 +20,19 @@ export default function CiclismoPage() {
   const eventos = [
     {
       title: "Viaje a Etapa de la Vuelta a España",
-      date: "28 de Agosto, 2025",
+      date: "2025",
       location: "Madrid - Toledo",
       image: "/professional-cycling-race-peloton.jpg",
     },
     {
       title: "Viaje a Etapa del Tour de Francia",
-      date: "15 de Julio, 2025",
+      date: "2025",
       location: "Pirineos",
       image: "/cycling-mountain-stage.jpg",
     },
     {
       title: "Viaje a Clásica Ciclista",
-      date: "5 de Abril, 2025",
+      date: "2025",
       location: "País Vasco",
       image: "/cycling-classic-race.jpg",
     },

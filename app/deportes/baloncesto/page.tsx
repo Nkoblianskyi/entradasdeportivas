@@ -15,7 +15,7 @@ export default function BaloncestoPage() {
     {
       id: 1,
       title: "Viaje a Partido de Liga ACB",
-      date: "Temporada 2024-2025",
+      date: "2025",
       location: "Varios pabellones en España",
       image: "/basketball-game-action-dunk.jpg",
       category: "Liga ACB",
@@ -23,7 +23,7 @@ export default function BaloncestoPage() {
     {
       id: 2,
       title: "Viaje a Partido de Euroliga",
-      date: "Temporada 2024-2025",
+      date: "2025",
       location: "Pabellones en España",
       image: "/basketball-game-action-dunk.jpg",
       category: "Euroliga",
@@ -31,7 +31,7 @@ export default function BaloncestoPage() {
     {
       id: 3,
       title: "Viaje a Copa del Rey de Baloncesto",
-      date: "Febrero, 2025",
+      date: "2025",
       location: "Sede por confirmar",
       image: "/basketball-game-action-dunk.jpg",
       category: "Copa del Rey",
@@ -39,7 +39,7 @@ export default function BaloncestoPage() {
     {
       id: 4,
       title: "Viaje a Supercopa Endesa",
-      date: "Septiembre, 2025",
+      date: "2025",
       location: "Por confirmar",
       image: "/basketball-game-action-dunk.jpg",
       category: "Supercopa",

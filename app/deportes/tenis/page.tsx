@@ -15,7 +15,7 @@ export default function TenisPage() {
     {
       id: 1,
       title: "Viaje a ATP Masters Madrid",
-      date: "Abril - Mayo, 2025",
+      date: "2025",
       location: "Caja Mágica, Madrid",
       image: "/tennis-match-professional-player.jpg",
       category: "ATP Masters 1000",
@@ -23,7 +23,7 @@ export default function TenisPage() {
     {
       id: 2,
       title: "Viaje a Barcelona Open",
-      date: "Abril, 2025",
+      date: "2025",
       location: "Real Club de Tenis Barcelona",
       image: "/tennis-match-professional-player.jpg",
       category: "ATP 500",
@@ -31,7 +31,7 @@ export default function TenisPage() {
     {
       id: 3,
       title: "Viaje a Torneo WTA",
-      date: "Temporada 2025",
+      date: "2025",
       location: "Varios estadios en España",
       image: "/tennis-match-professional-player.jpg",
       category: "WTA",
@@ -39,7 +39,7 @@ export default function TenisPage() {
     {
       id: 4,
       title: "Viaje a Copa Davis",
-      date: "Septiembre, 2025",
+      date: "2025",
       location: "Por confirmar",
       image: "/tennis-match-professional-player.jpg",
       category: "Copa Davis",

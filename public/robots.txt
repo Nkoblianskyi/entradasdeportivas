@@ -1,0 +1,10 @@
+# robots.txt para EntradasDeportivas.online
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://entradasdeportivas.online/sitemap.xml
+
+# Páginas que no queremos indexar
+Disallow: /api/

@@ -34,9 +34,7 @@ export function Navigation() {
               {link.label}
             </Link>
           ))}
-          <Button asChild size="sm">
-            <Link href="/contacto">Solicitar Entradas</Link>
-          </Button>
+
         </div>
 
         {/* Mobile Menu Button */}
